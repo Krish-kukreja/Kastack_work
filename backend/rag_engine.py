@@ -175,12 +175,16 @@ class RAGEngine:
                     end_id = t.get("end_msg_id", float('inf'))
                     break
                     
-        if target_user or target_topic:
+        normalized_user = None
+        if target_user:
+            normalized_user = target_user.replace("_", " ").title()
+            
+        if normalized_user or target_topic:
             indices = []
             for i, mid in enumerate(self.msg_index):
                 if not (start_id <= mid <= end_id):
                     continue
-                if target_user and self.messages.get(mid, {}).get("sender") != target_user:
+                if normalized_user and self.messages.get(mid, {}).get("sender") != normalized_user:
                     continue
                 indices.append(i)
                 
