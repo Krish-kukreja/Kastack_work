@@ -1,0 +1,14 @@
+node_modules
+*/node_modules
+*/*/node_modules
+dist
+*/dist
+.env
+.venv
+venv_new
+__pycache__
+*.pyc
+.git
+.gitignore
+.github
+data/raw
