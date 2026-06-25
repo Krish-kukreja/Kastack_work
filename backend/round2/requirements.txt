@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+vaderSentiment
+sentence-transformers
+numpy
+matplotlib
+pytest
+transformers

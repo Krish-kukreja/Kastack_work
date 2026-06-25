@@ -89,7 +89,7 @@ When a user asks a question, the system performs **multi-layered retrieval** to 
 ### Answer Generation
 All retrieved context (topic summaries + checkpoint summaries + exact messages) is combined into a structured prompt and fed to `google/flan-t5-small` for answer generation.
 
-A **confidence threshold of 0.30** cosine similarity is enforced — if no messages are sufficiently relevant, the system declines to answer rather than hallucinating.
+A **confidence threshold of 0.30** cosine similarity is enforced - if no messages are sufficiently relevant, the system declines to answer rather than hallucinating.
 
 ### Persona-Aware Routing
 Questions about personality, habits, or communication style (e.g., "What kind of person is User 1?") are automatically routed to the **pre-computed persona data** instead of the RAG pipeline, ensuring accurate statistical answers rather than LLM-generated guesses.
@@ -100,7 +100,7 @@ The implementation is in [`backend/rag_engine.py`](backend/rag_engine.py).
 
 ## 👤 How Persona is Built
 
-Persona extraction uses **pure statistical analysis and regex pattern matching** — no LLM inference. This ensures all persona data is backed by actual conversation signals, not guesses.
+Persona extraction uses **pure statistical analysis and regex pattern matching** - no LLM inference. This ensures all persona data is backed by actual conversation signals, not guesses.
 
 ### What is extracted:
 
@@ -180,29 +180,29 @@ The implementation is in [`pipeline/persona_extractor.py`](pipeline/persona_extr
 
 ```
 Kastack/
-├── pipeline/                    # Data processing pipeline
-│   ├── preprocess.py            # CSV → JSONL cleaning
-│   ├── embeddings.py            # Message embedding (all-MiniLM-L6-v2)
-│   ├── topic_detector.py        # Chronological topic detection
-│   ├── persona_extractor.py     # Statistical persona extraction
-│   └── summarizer.py            # Topic + checkpoint summarization
-├── backend/
-│   ├── app.py                   # FastAPI endpoints + SSR proxy
-│   └── rag_engine.py            # RAG retrieval + answer generation
-├── frontend/
-│   └── src/                     # React + Vite application
-├── data/
-│   ├── raw/conversations.csv    # Original dataset
-│   └── processed/               # Pipeline outputs
-│       ├── embeddings.npy       # 191K × 384 embedding matrix (280 MB)
-│       ├── embedding_index.json # Array position → message ID mapping
-│       ├── processed_messages.jsonl
-│       ├── topic_segments.json  # ~24K topics with summaries
-│       ├── summaries.json       # 1,916 checkpoint summaries
-│       └── persona.json         # User 1 & User 2 persona profiles
-├── Dockerfile
-├── start.sh
-└── requirements.txt
+├- pipeline/                    # Data processing pipeline
+│   ├- preprocess.py            # CSV → JSONL cleaning
+│   ├- embeddings.py            # Message embedding (all-MiniLM-L6-v2)
+│   ├- topic_detector.py        # Chronological topic detection
+│   ├- persona_extractor.py     # Statistical persona extraction
+│   └- summarizer.py            # Topic + checkpoint summarization
+├- backend/
+│   ├- app.py                   # FastAPI endpoints + SSR proxy
+│   └- rag_engine.py            # RAG retrieval + answer generation
+├- frontend/
+│   └- src/                     # React + Vite application
+├- data/
+│   ├- raw/conversations.csv    # Original dataset
+│   └- processed/               # Pipeline outputs
+│       ├- embeddings.npy       # 191K × 384 embedding matrix (280 MB)
+│       ├- embedding_index.json # Array position → message ID mapping
+│       ├- processed_messages.jsonl
+│       ├- topic_segments.json  # ~24K topics with summaries
+│       ├- summaries.json       # 1,916 checkpoint summaries
+│       └- persona.json         # User 1 & User 2 persona profiles
+├- Dockerfile
+├- start.sh
+└- requirements.txt
 ```
 
 ---
@@ -252,7 +252,7 @@ Deployed on **Hugging Face Spaces** using Docker.
 
 The `Dockerfile` builds the React frontend with Nitro SSR, installs Python dependencies, and `start.sh` launches both the Node.js SSR server (port 3000) and FastAPI backend (port 7860).
 
-Pre-computed data files are tracked via Git LFS — no pipeline re-run needed on deployment.
+Pre-computed data files are tracked via Git LFS - no pipeline re-run needed on deployment.
 
 ---
 

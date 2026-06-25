@@ -1,5 +1,5 @@
 """
-rag_engine.py — Retrieval-Augmented Generation Engine
+rag_engine.py - Retrieval-Augmented Generation Engine
 
 Handles:
   1. Query embedding
@@ -15,7 +15,7 @@ from pathlib import Path
 from sentence_transformers import SentenceTransformer
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 
-# ── Paths ─────────────────────────────────────────────────────────────────────
+# Paths
 BASE_DIR = Path(__file__).parent.parent
 EMB_PATH       = BASE_DIR / "data" / "processed" / "embeddings.npy"
 INDEX_PATH     = BASE_DIR / "data" / "processed" / "embedding_index.json"
@@ -43,7 +43,7 @@ class RAGEngine:
         self.checkpoints = []           # list of checkpoint dicts
         self.persona = {}
 
-    # ── Initialization ────────────────────────────────────────────────────────
+    # Initialization
 
     def initialize(self):
         """Load all assets into memory. Call once at server startup."""
@@ -139,12 +139,12 @@ class RAGEngine:
             else:
                 self.checkpoint_summary_embeddings = np.array([])
         else:
-            print("[RAG]   summaries.json not found — checkpoint retrieval will be empty")
+            print("[RAG]   summaries.json not found - checkpoint retrieval will be empty")
             self.checkpoints = []
             self.topic_summary_embeddings = None
             self.checkpoint_summary_embeddings = None
 
-    # ── Query embedding ───────────────────────────────────────────────────────
+    # Query embedding
 
     def embed_query(self, query: str) -> np.ndarray:
         """Embed and L2-normalize a query string."""
@@ -161,25 +161,48 @@ class RAGEngine:
         norm = np.linalg.norm(vec)
         return vec / max(norm, 1e-10)
 
-    # ── Retrieval ─────────────────────────────────────────────────────────────
+    # Retrieval
 
     def retrieve_relevant_messages(self, query_emb: np.ndarray, target_user: str = None, target_topic: str = None, top_k: int = 10) -> list[dict]:
         """Top-k message retrieval via cosine similarity."""
         
         start_id = 0
         end_id = float('inf')
+        
+        # --- BULLETPROOF TOPIC FILTER ---
         if target_topic:
-            for t in self.topics:
-                if str(t["topic_id"]) == str(target_topic):
-                    start_id = t.get("start_msg_id", 0)
-                    end_id = t.get("end_msg_id", float('inf'))
-                    break
-                    
+            # Extract topic_id if it's sent as a dict, string, or int
+            topic_val = None
+            if isinstance(target_topic, dict):
+                topic_val = target_topic.get("topic_id")
+            else:
+                topic_val = target_topic
+                
+            try:
+                # Strip the 't' prefix added by the frontend BEFORE casting to int
+                clean_val = str(topic_val).replace("t", "").strip()
+                topic_id_int = int(clean_val)
+                for t in self.topics:
+                    if t["topic_id"] == topic_id_int:
+                        start_id = t.get("start_msg_id", 0)
+                        end_id = t.get("end_msg_id", float('inf'))
+                        break
+            except (ValueError, TypeError):
+                pass # Ignore malformed topic inputs
+                
+        # --- BULLETPROOF USER FILTER ---
         normalized_user = None
         if target_user:
-            normalized_user = target_user.replace("_", " ").title()
+            user_str = str(target_user).lower().replace("_", "").replace(" ", "")
+            if "1" in user_str:
+                normalized_user = "User 1"
+            elif "2" in user_str:
+                normalized_user = "User 2"
+            else:
+                normalized_user = str(target_user).title()
             
-        if normalized_user or target_topic:
+        # --- APPLY FILTERS ---
+        if normalized_user or (start_id != 0 or end_id != float('inf')):
             indices = []
             for i, mid in enumerate(self.msg_index):
                 if not (start_id <= mid <= end_id):
@@ -267,7 +290,7 @@ class RAGEngine:
             })
         return results
 
-    # ── Answer generation ──────────────────────────────────────────────────────
+    # Answer generation
 
     def generate_answer(
         self,
@@ -308,7 +331,7 @@ class RAGEngine:
         except Exception as e:
             return f"[Generation error: {e}]"
 
-    # ── Main query interface ──────────────────────────────────────────────────
+    # Main query interface
 
     def query(self, user_query: str, target_user: str = None, target_topic: str = None, top_k_msgs: int = 10,
               top_k_topics: int = 3, top_k_checkpoints: int = 2) -> dict:
@@ -367,7 +390,7 @@ class RAGEngine:
         }
 
 
-# ── Persona query helpers ─────────────────────────────────────────────────────
+# Persona query helpers
 
 PERSONA_KEYWORDS = {
     "habit": ["habit", "routine", "sleep", "wake", "morning", "night"],
@@ -383,7 +406,7 @@ PERSONA_KEYWORDS = {
 def is_persona_query(query: str) -> bool:
     """Detect if query is specifically about persona/traits vs conversation content."""
     q = query.lower()
-    # Strong persona signals — these clearly ask about WHO the person is
+    # Strong persona signals - these clearly ask about WHO the person is
     strong_triggers = [
         "what kind of person",
         "personality",

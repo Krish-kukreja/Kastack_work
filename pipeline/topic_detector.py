@@ -1,5 +1,5 @@
 """
-topic_detector.py — Sliding Window Topic Segmentation
+topic_detector.py - Sliding Window Topic Segmentation
 
 Algorithm:
   1. Load embeddings, L2-normalize

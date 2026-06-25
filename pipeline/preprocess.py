@@ -1,11 +1,11 @@
 """
-preprocess.py — Parse conversation blobs into individual messages.
+preprocess.py - Parse conversation blobs into individual messages.
 
 Data reality:
   - CSV has 1 column; the column NAME is the first conversation (row 0)
   - Each row = one day's full conversation between User 1 and User 2
   - Format: "User 1: msg\\nUser 2: msg\\nUser 1: msg..."
-  - No timestamps — row order = chronological day order
+  - No timestamps - row order = chronological day order
   - ~11K rows (days)
 
 Output: processed_messages.jsonl
@@ -36,7 +36,7 @@ def load_all_conversations(csv_path: Path) -> list[str]:
     """
     Load ALL conversations including the one trapped in the header.
     
-    The CSV has no real header — pandas treats the first conversation as the column name.
+    The CSV has no real header - pandas treats the first conversation as the column name.
     We need to recover it.
     """
     # Read with header=None to avoid losing the first conversation

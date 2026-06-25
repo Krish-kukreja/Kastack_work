@@ -1,0 +1,85 @@
+{
+  "data_caveat": "CRITICAL: The underlying data is PersonaChat. Each day/conversation_id pairs completely different people. User 1 is NOT a continuous person across days. This timeline is analyzing an artifact, not real longitudinal drift.",
+  "segments": [
+    {
+      "day_range": "1-13",
+      "dominant_tone": "formal",
+      "dominant_mood": "curiosity-positive",
+      "mean_affect": {
+        "valence": 0.567,
+        "curiosity": 0.2,
+        "frustration": 0.0,
+        "playfulness": 0.093,
+        "formality": 0.547,
+        "intensity": 0.367,
+        "avg_length": 11.095,
+        "excl_rate": 0.537,
+        "quest_rate": 0.268
+      }
+    },
+    {
+      "day_range": "14-25",
+      "dominant_tone": "formal",
+      "dominant_mood": "curiosity-positive",
+      "mean_affect": {
+        "valence": 0.546,
+        "curiosity": 0.161,
+        "frustration": 0.006,
+        "playfulness": 0.113,
+        "formality": 0.557,
+        "intensity": 0.357,
+        "avg_length": 12.453,
+        "excl_rate": 0.511,
+        "quest_rate": 0.211
+      }
+    },
+    {
+      "day_range": "26-34",
+      "dominant_tone": "formal",
+      "dominant_mood": "curiosity-positive",
+      "mean_affect": {
+        "valence": 0.446,
+        "curiosity": 0.286,
+        "frustration": 0.005,
+        "playfulness": 0.079,
+        "formality": 0.569,
+        "intensity": 0.296,
+        "avg_length": 11.003,
+        "excl_rate": 0.367,
+        "quest_rate": 0.373
+      }
+    },
+    {
+      "day_range": "35-52",
+      "dominant_tone": "formal",
+      "dominant_mood": "curiosity-positive",
+      "mean_affect": {
+        "valence": 0.496,
+        "curiosity": 0.244,
+        "frustration": 0.004,
+        "playfulness": 0.072,
+        "formality": 0.574,
+        "intensity": 0.332,
+        "avg_length": 12.549,
+        "excl_rate": 0.477,
+        "quest_rate": 0.311
+      }
+    },
+    {
+      "day_range": "53-60",
+      "dominant_tone": "formal",
+      "dominant_mood": "curiosity-positive",
+      "mean_affect": {
+        "valence": 0.529,
+        "curiosity": 0.153,
+        "frustration": 0.0,
+        "playfulness": 0.057,
+        "formality": 0.575,
+        "intensity": 0.333,
+        "avg_length": 10.484,
+        "excl_rate": 0.431,
+        "quest_rate": 0.211
+      }
+    }
+  ]
+}

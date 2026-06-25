@@ -61,7 +61,7 @@ textarea:-webkit-autofill {
   transition: background-color 9999s ease-in-out 0s;
 }
 
-/* liquid-glass bubble — translucent, blurred, gradient bleeds through */
+/* liquid-glass bubble - translucent, blurred, gradient bleeds through */
 .glass {
   background: linear-gradient(135deg, rgba(30, 30, 38, 0.76), rgba(10, 10, 14, 0.66));
   backdrop-filter: blur(20px) saturate(155%);

@@ -1,5 +1,5 @@
 """
-embeddings.py — Generate per-message embeddings using sentence-transformers.
+embeddings.py - Generate per-message embeddings using sentence-transformers.
 
 Input:  processed_messages.jsonl (fields: msg_id, conversation_id, day, msg_index, sender, message_text, is_media)
 Output: embeddings.npy          (shape: [num_messages, 384])

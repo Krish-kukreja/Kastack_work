@@ -1,7 +1,7 @@
-import { MessageSquare, Search, User, Settings } from "lucide-react";
+import { MessageSquare, Search, User, Settings, Activity } from "lucide-react";
 import { MeshOrb } from "@/components/ui/mesh-orb";
 
-type NavKey = "chat" | "search" | "persona" | "settings";
+export type NavKey = "chat" | "search" | "persona" | "settings" | "insights";
 
 interface Props {
   active: NavKey;
@@ -14,6 +14,7 @@ const items: { key: NavKey; icon: typeof MessageSquare; label: string; hint: str
   { key: "chat", icon: MessageSquare, label: "Chat", hint: "Chat" },
   { key: "search", icon: Search, label: "Search", hint: "Search (/)" },
   { key: "persona", icon: User, label: "Profiles", hint: "Profiles" },
+  { key: "insights", icon: Activity, label: "Insights", hint: "Insights" },
   { key: "settings", icon: Settings, label: "Settings", hint: "Settings" },
 ];
 

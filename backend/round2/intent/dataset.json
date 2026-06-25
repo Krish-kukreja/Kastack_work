@@ -1,0 +1,4502 @@
+[
+  {
+    "text": "remind me to pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to review the PR",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to review the pr",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to review the pr",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "rmeind me to pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "set a reminder to pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "set a remindert o pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "set a reminder to call the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "set a reminder to take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "set a remindert o take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "don't let me forget to take my medicine",
+    "label": "reminder"
+  },
+  {
+    "text": "don't let me forget to taek my medicine",
+    "label": "reminder"
+  },
+  {
+    "text": "don't let me forget to call the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "dont' let me forget to call the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "don't let me forget to water the plants",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me about call the doctor tomorrow",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me about call the doctor tomorrow",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me about call the doctor tomorrow",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me about call mom tomorrow",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me about call mom tomorrow",
+    "label": "reminder"
+  },
+  {
+    "text": "remindm e about call mom tomorrow",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to take my medicine",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to call the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to cancel the subscription",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me in 10 minutes to send the email",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me in 10 minutes to water the plants",
+    "label": "reminder"
+  },
+  {
+    "text": "remidn me in 10 minutes to water the plants",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me in 10 minutes to cancel the subscription",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me in 10 minutes to cancel thes ubscription",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to take my medicine",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to call the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me: take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me: taek out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "remind m:e take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me: water the plants",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me: review the PR",
+    "label": "reminder"
+  },
+  {
+    "text": "notify me: review the PR",
+    "label": "reminder"
+  },
+  {
+    "text": "set an alarm for cancel the subscription",
+    "label": "reminder"
+  },
+  {
+    "text": "set an alarm for cancel the subscription",
+    "label": "reminder"
+  },
+  {
+    "text": "set an alarm for cancel the subscription",
+    "label": "reminder"
+  },
+  {
+    "text": "make sure I call the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "make sure i call the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "mkae sure I call the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "make sure I take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "make sure i take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "make sure I feed the dog",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me at 5pm to review the PR",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me at 5pm to review the pr",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me at 5pm to call mom",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me at 5pm to water the plants",
+    "label": "reminder"
+  },
+  {
+    "text": "schedule a reminder to book the flight",
+    "label": "reminder"
+  },
+  {
+    "text": "schedule a reminder to pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "schedule a reminder to book the flight",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me next week to review the PR",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me next week to review the PR",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me next week to call the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me next week to call the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me next week to pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me next week to pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "please remind me to cancel the subscription",
+    "label": "reminder"
+  },
+  {
+    "text": "please alert me to cancel the subscription",
+    "label": "reminder"
+  },
+  {
+    "text": "please remind me to call the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "please remind me to pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "please notify me to pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "can you remind me to send the email",
+    "label": "reminder"
+  },
+  {
+    "text": "can you notify me to send the email",
+    "label": "reminder"
+  },
+  {
+    "text": "can you remindm e to send the email",
+    "label": "reminder"
+  },
+  {
+    "text": "can you remind me to book the flight",
+    "label": "reminder"
+  },
+  {
+    "text": "can you alert me to book the lfight",
+    "label": "reminder"
+  },
+  {
+    "text": "can you remind me to finish the report",
+    "label": "reminder"
+  },
+  {
+    "text": "can you ping me to finish the report",
+    "label": "reminder"
+  },
+  {
+    "text": "can you notify me to finish the report",
+    "label": "reminder"
+  },
+  {
+    "text": "I need a reminder to finish the report",
+    "label": "reminder"
+  },
+  {
+    "text": "I need a reminder to pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "I need a reminder to send the email",
+    "label": "reminder"
+  },
+  {
+    "text": "I must a reminder to send the email",
+    "label": "reminder"
+  },
+  {
+    "text": "I nede a reminder to send the email",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to water the plants this evening",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to review the PR this evening",
+    "label": "reminder"
+  },
+  {
+    "text": "notify me to review the PR this evening",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to water the plants this evening",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to take my medicine in the morning",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to pay the bills in the morning",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to take my medicine in the morning",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to take my medicine in the morning",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to review the PR on Friday",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to review the PR on Friday",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to call the doctor on Friday",
+    "label": "reminder"
+  },
+  {
+    "text": "remnid me to call the doctor on Friday",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to take my medicine on Friday",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to take my medicine on Friday",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me when I get home to take my medicine",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me when I get home to take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me when I get home to take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me when i get home to take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me when i get home to take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to water the plants when I wake up",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to water the plants when I wake up",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to buy milk when I wake up",
+    "label": "reminder"
+  },
+  {
+    "text": "ermind me to buy milk when I wake up",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to feed the dog when I wake up",
+    "label": "reminder"
+  },
+  {
+    "text": "notify me to feed the dog when I wake up",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to feed the dog when i wake up",
+    "label": "reminder"
+  },
+  {
+    "text": "add a reminder to book the flight",
+    "label": "reminder"
+  },
+  {
+    "text": "add a reminder to finish the report",
+    "label": "reminder"
+  },
+  {
+    "text": "add a reminder to finish the report",
+    "label": "reminder"
+  },
+  {
+    "text": "create a reminder for feed the dog",
+    "label": "reminder"
+  },
+  {
+    "text": "create a reminder for review the PR",
+    "label": "reminder"
+  },
+  {
+    "text": "create a reminder for review the pr",
+    "label": "reminder"
+  },
+  {
+    "text": "create a reminder for call the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "create a reminder for call the docotr",
+    "label": "reminder"
+  },
+  {
+    "text": "create a reminder forc all the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "don't forget to take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "don't forget to review the PR",
+    "label": "reminder"
+  },
+  {
+    "text": "don't forget to review the pr",
+    "label": "reminder"
+  },
+  {
+    "text": "don't forget to pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "don't forget t opay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me tomorrow morning to take my medicine",
+    "label": "reminder"
+  },
+  {
+    "text": "notify me tomorrow morning to take my medicine",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me tomorrow morning to take my medicine",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me tomorrow morning to take my meidcine",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me tomorrow morning to take my medicine",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me tomorrow morning to cancel the subscription",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me before I sleep to pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "notify me before I sleep to pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me before I sleep to pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me before I sleep to call the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me before i sleep to call the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me before I sleep to send the email",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me before I sleep to send the email",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to call water the plants",
+    "label": "reminder"
+  },
+  {
+    "text": "notify me to call water the palnts",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to call send the email",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to call send the email",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to call buy milk",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to call buy milk",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to email book the flight",
+    "label": "reminder"
+  },
+  {
+    "text": "notify me to email book the flight",
+    "label": "reminder"
+  },
+  {
+    "text": "notify me to email book the flight",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to email call mom",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to email call mom",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to email call mom",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to email call mom",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to buy send the email",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to buy send the email",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to buy water the plants",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to uby water the plants",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to buy buy milk",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to buy buy milk",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to pay water the plants",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to pay water the plants",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to pay take my medicine",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to pay take my medicine",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to pay water the plants",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to pay water the plants",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to check pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to check call mom",
+    "label": "reminder"
+  },
+  {
+    "text": "notify me to checkc all mom",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to check buy milk",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to finish take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "notify me to finish take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to done with take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to finish take my medicine",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to finish take my medicine",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to finish take my medicine",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to finish pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to review pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to review payt he bills",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to review pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to review feed the dog",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to review pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to submit take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to submit take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to submit take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to submit review the PR",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to submit review the pr",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to submit book the flight",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to submit book the flight",
+    "label": "reminder"
+  },
+  {
+    "text": "notify me to submit book the flight",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to text pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to text take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to text buy milk",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to text bu ymilk",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to bring water the plants",
+    "label": "reminder"
+  },
+  {
+    "text": "notify me to bring water the plants",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to bring call mom",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to bring call mom",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to bring call mom",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to bring book the flight",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to pick up send the email",
+    "label": "reminder"
+  },
+  {
+    "text": "ermind me to pick up send the email",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to pick up take my medicine",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to pick up pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to pick up pay the bills",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to feed take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to feed take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to feed take out the trash",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to feed call mom",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to feed water the plants",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to fee dwater the plants",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to water take my medicine",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to water water the plants",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to water call the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "alert me to water call the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "notify me to water call the doctor",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to cancel finish the report",
+    "label": "reminder"
+  },
+  {
+    "text": "alret me to cancel wrap up the report",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to cancel review the PR",
+    "label": "reminder"
+  },
+  {
+    "text": "remind met o cancel review the PR",
+    "label": "reminder"
+  },
+  {
+    "text": "ping me to cancel review the PR",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to cancel finish the report",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to cancel wrap up the report",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to start send the email",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to start call mom",
+    "label": "reminder"
+  },
+  {
+    "text": "remind me to start book the flight",
+    "label": "reminder"
+  },
+  {
+    "text": "I'm feeling lonely",
+    "label": "emotional-support"
+  },
+  {
+    "text": "'Im feeling lonely",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm feeling exhausted",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i'm feeling exhausted",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i'm feeling exhausted",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm feeling angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i'm feeling angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I just feel so depressed lately",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i just feel so depressed lately",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I just feel so down lately",
+    "label": "emotional-support"
+  },
+  {
+    "text": " Ijust feel so down lately",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I just feel so downl ately",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I just feel so angry lately",
+    "label": "emotional-support"
+  },
+  {
+    "text": "It's been a sad day",
+    "label": "emotional-support"
+  },
+  {
+    "text": "It's been a sa dday",
+    "label": "emotional-support"
+  },
+  {
+    "text": "It's been a hopeless day",
+    "label": "emotional-support"
+  },
+  {
+    "text": "It's been a upset day",
+    "label": "emotional-support"
+  },
+  {
+    "text": "It's bene a upset day",
+    "label": "emotional-support"
+  },
+  {
+    "text": "it's been a upset day",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm really burned out right now",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i'm really burned out right now",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm really tired right now",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm really tiredr ight now",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm really anxious right now",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i'm really anxious right now",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I can't stop feeling stressed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i can't stop feeling stressed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I can't stop feeling sad",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i can't stop feeling sad",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I can't stop feeling lonely",
+    "label": "emotional-support"
+  },
+  {
+    "text": "Everything is so exhausted",
+    "label": "emotional-support"
+  },
+  {
+    "text": "Everything is so scared",
+    "label": "emotional-support"
+  },
+  {
+    "text": "evertyhing is so scared",
+    "label": "emotional-support"
+  },
+  {
+    "text": "everything is so scarde",
+    "label": "emotional-support"
+  },
+  {
+    "text": "Everything is so sad",
+    "label": "emotional-support"
+  },
+  {
+    "text": "Everything is so down",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm so exhausted about this",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i'm so exhausted about this",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm so exhausted about this",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i'm so exhausted about this",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i'm so exhausted about this",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm so hopeless about this",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I've been down all week",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I've been anxious all week",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I've been axnious all week",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i've been anxious all week",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I've been exhausted all week",
+    "label": "emotional-support"
+  },
+  {
+    "text": "Why am I so tired?",
+    "label": "emotional-support"
+  },
+  {
+    "text": "why am i so tired",
+    "label": "emotional-support"
+  },
+  {
+    "text": "Why am I so burned out?",
+    "label": "emotional-support"
+  },
+  {
+    "text": "Why am I so burned otu?",
+    "label": "emotional-support"
+  },
+  {
+    "text": "Why am I so frustrated?",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm having a anxious time",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i'm having a anxious time",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm having a angry time",
+    "label": "emotional-support"
+  },
+  {
+    "text": "'Im having a angry time",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm having a angry time",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm struggling with being exhausted",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm struggling with being anxious",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm struggling with being anxious",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I feel incredibly anxious",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I feel incredilby anxious",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I feel incredibly heartbroken",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I feel incredibly down",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i feel incredibly down",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm just so anxious",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm just so overwhelmed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm just so burned out",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i'm just so burned out",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm a bit overwhelmed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm a bit exhausted",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm a bti exhausted",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm a bit down",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I feel very nervous",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I feel very depressed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I feel very tired",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i feel very tired",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i feel very tired",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am feeling lonely",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am feeling lonely",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i a mfeeling lonely",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am feeling depressed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am feeling depressed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am feeling upset",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i a mfeeling upset",
+    "label": "emotional-support"
+  },
+  {
+    "text": "It makes me feel frustrated",
+    "label": "emotional-support"
+  },
+  {
+    "text": "It makes me feel frustrated",
+    "label": "emotional-support"
+  },
+  {
+    "text": "it makes me feel frustrated",
+    "label": "emotional-support"
+  },
+  {
+    "text": "It makes me feel sad",
+    "label": "emotional-support"
+  },
+  {
+    "text": "it makes me feel sad",
+    "label": "emotional-support"
+  },
+  {
+    "text": "it makes me feel sad",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I've been feeling overwhelmed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I've been feeling frustrated",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I've been feelingf rustrated",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I've been feeling stressed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am so overwhelmed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am so exhausted",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am so exhautsed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am so exhausted",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am so burned out",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am so burned out",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I feel so tired today",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i feel so tired today",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I feel so stressed today",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I feel so stresesd today",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I feel so anxious today",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm kind of angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm kind of tired",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i'm kind of tired",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm kind of angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i'm kind of angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i'm kind of angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am really upset",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I amr eally upset",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am raelly upset",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am really anxious",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am really overwhelmed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am really overwhelmed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm feeling quite exhausted",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i'm feeling quite exhausted",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm feeling quite angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm feeling quite angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I feel absolutely overwhelmed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i feel absolutely overwhelmed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i feel absolutely ovrewhelmed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I feel absolutely frustrated",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i feel absolutely frustrated",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I feel absolutely stressed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I just want to cry because I'm tired",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i just want ot cry because i'm tired",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I just want to cry because I'm burned out",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I just want to cry because I'm angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I just want to cry becaus eI'm angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i just want to cry because i'm angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I need some help, I'm burned out",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i need some help, i'm burned out",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I need some help, I'm heartbroken",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I need some help, I'm depressed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "Can someone talk to me? I'm upset",
+    "label": "emotional-support"
+  },
+  {
+    "text": "Can someone talk to me? 'Im upset",
+    "label": "emotional-support"
+  },
+  {
+    "text": "can someone talk to me i'm upset",
+    "label": "emotional-support"
+  },
+  {
+    "text": "Can someone talk to me? I'm upset",
+    "label": "emotional-support"
+  },
+  {
+    "text": "can someone talk to me i'm upset",
+    "label": "emotional-support"
+  },
+  {
+    "text": "Can someone talk to me? I'm hopeless",
+    "label": "emotional-support"
+  },
+  {
+    "text": "can someone talk to me i'm hopeless",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm overwhelmed and sad",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm overwhelmed and down",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm overwhelmed and heartbroken",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I'm overwhelmed and upset",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am dealing with being sad",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am dealing with being blue",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am dealing with being upset",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am dealing with being sad",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am dealing with being angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am suffering from feeling heartbroken",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am suffering from feeling heartbroken",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am suffering from feeling nervous",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am suffering from feeling down",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am coping with being hopeless",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am coping with being hopeless",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am coping with being angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am coping with being stressed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am trying to handle being sad",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am trying to handle being blue",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am trying to handle being down",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am trying to handle being frustrated",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am trying to handle being frustrated",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am trying to handle being burned out",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am managing feeling angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am managing feeling angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am managing feeling lonely",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am managing feelin glonely",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am managing feeling loneyl",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am managing feeling angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am surviving feeling hopeless",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am surviving feeling hopeless",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am surviving feeling stressed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am surviving feeling stressed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am surviving feeling hopeless",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am surviving feeling hopeless",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am surviving feeling hopeless",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am enduring feeling angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am enduring feeling angry",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am enduring feeling stressed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am enduring feeling overwhelmed",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am experiencing being sad",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am experiencing being down",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am experiencing being upset",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am experiencing being lonely",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am going through a overwhelmed phase",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am going through a overwhelmed phase",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am going through a stressed phase",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I ma going through a stressed phase",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am going through a stressed phase",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am going through a down phase",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am in a heartbroken mood",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am in a down mood",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I ami n a down mood",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am in a angry mood",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am having a depressed moment",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am having a overwhelmed moment",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am having a overwhelmed moment",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am having a nervous moment",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am having a nervous moment",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am dealing with a down situation",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am dealing with a heartbroken situation",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am delaing with a heartbroken situation",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am dealing with a heartrboken situation",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am dealing with a nervous situation",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am dealing with a nervous situation",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am facing a anxious time",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am facing a burned out time",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I am facing a sad time",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am facing a odwn time",
+    "label": "emotional-support"
+  },
+  {
+    "text": "i am facing a sad time",
+    "label": "emotional-support"
+  },
+  {
+    "text": "I need to prepare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "I got to prepare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "I need to clean the house",
+    "label": "action-item"
+  },
+  {
+    "text": "I got to clean the house",
+    "label": "action-item"
+  },
+  {
+    "text": "I must to clean the house",
+    "label": "action-item"
+  },
+  {
+    "text": "I need to grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I got to grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I must to grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to read the paper",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to write th edocument",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to run the script",
+    "label": "action-item"
+  },
+  {
+    "text": "I must test the feature",
+    "label": "action-item"
+  },
+  {
+    "text": "I must test the feautre",
+    "label": "action-item"
+  },
+  {
+    "text": "I must prepare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "I must perpare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "I must read the paper",
+    "label": "action-item"
+  },
+  {
+    "text": "My action item is to test the feature",
+    "label": "action-item"
+  },
+  {
+    "text": "My action item is to update the tracker",
+    "label": "action-item"
+  },
+  {
+    "text": "My action item is to fix the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "To-do: run the script",
+    "label": "action-item"
+  },
+  {
+    "text": "To-do: run the script",
+    "label": "action-item"
+  },
+  {
+    "text": "To-do: fix the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "Task: grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "task: grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "Task: push the code",
+    "label": "action-item"
+  },
+  {
+    "text": "task: push the code",
+    "label": "action-item"
+  },
+  {
+    "text": "Task: run the script",
+    "label": "action-item"
+  },
+  {
+    "text": "Add to my list: write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "add to my list: write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "Add to my list: run the script",
+    "label": "action-item"
+  },
+  {
+    "text": "Addt o my list: run the script",
+    "label": "action-item"
+  },
+  {
+    "text": "Add to my list: run the script",
+    "label": "action-item"
+  },
+  {
+    "text": "I should do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "i should do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "I should write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "I should finish the slides",
+    "label": "action-item"
+  },
+  {
+    "text": "i should wrap up the slides",
+    "label": "action-item"
+  },
+  {
+    "text": "i should complete the slides",
+    "label": "action-item"
+  },
+  {
+    "text": "I will update the tracker",
+    "label": "action-item"
+  },
+  {
+    "text": "I will updtae the tracker",
+    "label": "action-item"
+  },
+  {
+    "text": "I will prepare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "I will prepare for the emeting",
+    "label": "action-item"
+  },
+  {
+    "text": "Iw ill prepare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "I will fix the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "I am going to fix the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "I am going to clean the house",
+    "label": "action-item"
+  },
+  {
+    "text": "I am going to fix the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "i am going to fix the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "I plan to push the code",
+    "label": "action-item"
+  },
+  {
+    "text": "i plan to push the code",
+    "label": "action-item"
+  },
+  {
+    "text": "I plan to grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I plan to push the code",
+    "label": "action-item"
+  },
+  {
+    "text": "I am planning to push the code",
+    "label": "action-item"
+  },
+  {
+    "text": "i am planning to push the code",
+    "label": "action-item"
+  },
+  {
+    "text": "I am planning to read the paper",
+    "label": "action-item"
+  },
+  {
+    "text": "i am planning to read the paper",
+    "label": "action-item"
+  },
+  {
+    "text": "I am planning to update the tracker",
+    "label": "action-item"
+  },
+  {
+    "text": "I intend to clean the house",
+    "label": "action-item"
+  },
+  {
+    "text": "I intend to fix the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "I intend to prepare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "I aim to test the feature",
+    "label": "action-item"
+  },
+  {
+    "text": "I aim to update the tracker",
+    "label": "action-item"
+  },
+  {
+    "text": "i aim to update the tracker",
+    "label": "action-item"
+  },
+  {
+    "text": "I aim to run the script",
+    "label": "action-item"
+  },
+  {
+    "text": "I'm supposed to update the tracker",
+    "label": "action-item"
+  },
+  {
+    "text": "I'm supposed to fix the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "i'm supposed to fix the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "I'm supposed to fxi the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "I'm supposed to prepare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "I've got to run the script",
+    "label": "action-item"
+  },
+  {
+    "text": "I've got to grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I've got t ogrocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I've got to clean the house",
+    "label": "action-item"
+  },
+  {
+    "text": "I better fix the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "i better fix the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "I better push the code",
+    "label": "action-item"
+  },
+  {
+    "text": "I better read the paper",
+    "label": "action-item"
+  },
+  {
+    "text": "I need to make sure I fix the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "i have to make sure i fix the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "i need to make sure i fix the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "I need to make sure I run the script",
+    "label": "action-item"
+  },
+  {
+    "text": "I need to make sure I read the paper",
+    "label": "action-item"
+  },
+  {
+    "text": "i need to make sure i read thep aper",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to make sure I read the paper",
+    "label": "action-item"
+  },
+  {
+    "text": "I need to remember to update the tracker",
+    "label": "action-item"
+  },
+  {
+    "text": "I must to remember to update the tracker",
+    "label": "action-item"
+  },
+  {
+    "text": "I must to remember to update the tracker",
+    "label": "action-item"
+  },
+  {
+    "text": "I need to remember to write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to remember to write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to remember to write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "I need to remember to do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "i need to remember to do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "i need to remebmer to do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to remember to clean the house",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to remember to prepare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": " Ihave to remember to prepare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to remember to grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to remembre to grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "i have to remember to grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I must remember to do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "I must remebmer to do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "I must remember to grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I must remember to grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I should remember to do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "I should reemmber to do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "I should remember to do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "I should remember to prepare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "I will remember to read the paper",
+    "label": "action-item"
+  },
+  {
+    "text": "i wil lremember to read the paper",
+    "label": "action-item"
+  },
+  {
+    "text": "I will remember to push the code",
+    "label": "action-item"
+  },
+  {
+    "text": "I will remember to push teh code",
+    "label": "action-item"
+  },
+  {
+    "text": "I will remember to fix the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "i will remember to fix the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "I am going to remember to do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "I am going to remember to write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "I am going to remember to fix the bug",
+    "label": "action-item"
+  },
+  {
+    "text": "I plan to remember to write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "I plan to remember to run the script",
+    "label": "action-item"
+  },
+  {
+    "text": "I plan to remember to push the code",
+    "label": "action-item"
+  },
+  {
+    "text": "I am planning to remember to grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I am planning to remember to write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "I am planning to remember to update the tracker",
+    "label": "action-item"
+  },
+  {
+    "text": "i am planning to remember to update the trakcer",
+    "label": "action-item"
+  },
+  {
+    "text": "I intend to remember to do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "I intend to remembe rto do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "I intend to remember to grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I intend to rememebr to grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I intend to remember to push the code",
+    "label": "action-item"
+  },
+  {
+    "text": "i intend to remember to push the code",
+    "label": "action-item"
+  },
+  {
+    "text": "I inetnd to remember to push the code",
+    "label": "action-item"
+  },
+  {
+    "text": "I aim to remember to clean the house",
+    "label": "action-item"
+  },
+  {
+    "text": "I aim to remember to prepare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "i aim to remember to prepare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "I aim to remember to clean the house",
+    "label": "action-item"
+  },
+  {
+    "text": "I need to focus on write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "I nede to focus on write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "I need to focus on push the code",
+    "label": "action-item"
+  },
+  {
+    "text": "I need to focus on prepare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "i need to focus on prepare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to focus on grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to focus on rgocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to focus on write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "i have to focus on write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to focus on do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "i have to focus on do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "I must focus on grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I must focus on test the feature",
+    "label": "action-item"
+  },
+  {
+    "text": "I must focus on write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "i must focus on write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "I should focus on grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I should focus on grocery hsop",
+    "label": "action-item"
+  },
+  {
+    "text": "I should focus on prepare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "i should focus on prepare ofr the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "i should focus on prepare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "I should focus on update the tracker",
+    "label": "action-item"
+  },
+  {
+    "text": "I will focus on finish the slides",
+    "label": "action-item"
+  },
+  {
+    "text": "I will focus on prepare for the meeting",
+    "label": "action-item"
+  },
+  {
+    "text": "I will focus on do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "I am going to focus on write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "I am going to focus on write the dcoument",
+    "label": "action-item"
+  },
+  {
+    "text": "I am going to focu son write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "I am going to focus on run the script",
+    "label": "action-item"
+  },
+  {
+    "text": "i am going to focus on run the script",
+    "label": "action-item"
+  },
+  {
+    "text": "I am going to focus on read the paper",
+    "label": "action-item"
+  },
+  {
+    "text": "i am going to focus on read the paper",
+    "label": "action-item"
+  },
+  {
+    "text": "I plan to focus on clean the house",
+    "label": "action-item"
+  },
+  {
+    "text": "i plant o focus on clean the house",
+    "label": "action-item"
+  },
+  {
+    "text": "I plan to focus on read the paper",
+    "label": "action-item"
+  },
+  {
+    "text": "I plan to focus on finish the slides",
+    "label": "action-item"
+  },
+  {
+    "text": "i plan to focus on fniish the slides",
+    "label": "action-item"
+  },
+  {
+    "text": "i plan t ofocus on finish the slides",
+    "label": "action-item"
+  },
+  {
+    "text": "I am planning to focus on test the feature",
+    "label": "action-item"
+  },
+  {
+    "text": "I am planning to focus on run the script",
+    "label": "action-item"
+  },
+  {
+    "text": "I am planning to focus on finish the slides",
+    "label": "action-item"
+  },
+  {
+    "text": "I intend to focus on read the paper",
+    "label": "action-item"
+  },
+  {
+    "text": "i intend to focus on read the paper",
+    "label": "action-item"
+  },
+  {
+    "text": "I intend to focus on read the paper",
+    "label": "action-item"
+  },
+  {
+    "text": "i intend to focus on read the paper",
+    "label": "action-item"
+  },
+  {
+    "text": "I intend to focus on do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "I aim to focus on grocery shop",
+    "label": "action-item"
+  },
+  {
+    "text": "I aim to focus on do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "i aim to focus on do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "i aim to focus on do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "I aim to focus on do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "i aim to focus on do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "I need to work on write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "i need to work on write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "I need to work on write the odcument",
+    "label": "action-item"
+  },
+  {
+    "text": "I need to work on finish the slides",
+    "label": "action-item"
+  },
+  {
+    "text": "I got to work on finish the slides",
+    "label": "action-item"
+  },
+  {
+    "text": "I need to work on done with the slides",
+    "label": "action-item"
+  },
+  {
+    "text": "I need to work on run the script",
+    "label": "action-item"
+  },
+  {
+    "text": "i got to work on run the script",
+    "label": "action-item"
+  },
+  {
+    "text": "i need to work on run the script",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to work on write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to work on writ ethe document",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to work on do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "i have to work on do the laundry",
+    "label": "action-item"
+  },
+  {
+    "text": "I have to work on write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "i have to work on write the document",
+    "label": "action-item"
+  },
+  {
+    "text": "guy.",
+    "label": "small-talk"
+  },
+  {
+    "text": "friend.",
+    "label": "small-talk"
+  },
+  {
+    "text": "bro.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hey lady.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hey mr.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hey chap.",
+    "label": "small-talk"
+  },
+  {
+    "text": "hey chap",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hi there?",
+    "label": "small-talk"
+  },
+  {
+    "text": "hi there",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hi dude.",
+    "label": "small-talk"
+  },
+  {
+    "text": "hi dude",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hi mr.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hi m.r",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hello dr.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hello d.r",
+    "label": "small-talk"
+  },
+  {
+    "text": "hello dr",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hello chap.",
+    "label": "small-talk"
+  },
+  {
+    "text": "hello chap",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hello prof.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Good morning today?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Good morning guy.",
+    "label": "small-talk"
+  },
+  {
+    "text": "good morning guy",
+    "label": "small-talk"
+  },
+  {
+    "text": "oGod morning guy.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Good morning mrs.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Good afternoon lady.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Good afternoon miss.",
+    "label": "small-talk"
+  },
+  {
+    "text": "good afternoon miss",
+    "label": "small-talk"
+  },
+  {
+    "text": "Good afternoon prof.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Good evening girl.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Good evening there?",
+    "label": "small-talk"
+  },
+  {
+    "text": "good evening there",
+    "label": "small-talk"
+  },
+  {
+    "text": "Good evening man.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How are you there?",
+    "label": "small-talk"
+  },
+  {
+    "text": "How are you mate.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How are you there?",
+    "label": "small-talk"
+  },
+  {
+    "text": "What's up mr.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What's up lady.",
+    "label": "small-talk"
+  },
+  {
+    "text": "what's up lady",
+    "label": "small-talk"
+  },
+  {
+    "text": "What's u plady.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What's up recently?",
+    "label": "small-talk"
+  },
+  {
+    "text": "How's it going dude.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how's it going dude",
+    "label": "small-talk"
+  },
+  {
+    "text": "how's it going dude",
+    "label": "small-talk"
+  },
+  {
+    "text": "How's it going mrs.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How's it going woman.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how's it going woman",
+    "label": "small-talk"
+  },
+  {
+    "text": "How have you been recently?",
+    "label": "small-talk"
+  },
+  {
+    "text": "How have you been today?",
+    "label": "small-talk"
+  },
+  {
+    "text": "How have you been there?",
+    "label": "small-talk"
+  },
+  {
+    "text": "What have you been up to mr.",
+    "label": "small-talk"
+  },
+  {
+    "text": "what have you been up to mr",
+    "label": "small-talk"
+  },
+  {
+    "text": "What have you been up to girl.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Whta have you been up to girl.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What have you been up tog irl.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What have you been up to buddy.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your day prof.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your day bro.",
+    "label": "small-talk"
+  },
+  {
+    "text": "howi s your day bro",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your day recently?",
+    "label": "small-talk"
+  },
+  {
+    "text": "how is your day recently",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is you rday recently?",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your day woman.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how was your day woman",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your day mate.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how was your day mate",
+    "label": "small-talk"
+  },
+  {
+    "text": "how was your day mate",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your day pal.",
+    "label": "small-talk"
+  },
+  {
+    "text": "oHw was your day pal.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your week madam.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your week mate.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how is your week mate",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your week miss.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your week mr.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how was your week mr",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your week mr.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your week prof.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your week rpof.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your weekend sir.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how is your weekend sir",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your weekend girl.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how is your weekend girl",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your weekend mrs.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how is your weekend mrs",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your weekend there?",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your weekend prof.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your weekend recently?",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your family buddy.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your family prof.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your family pro.f",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your family prfo.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your family mr.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your family prof.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your family prof.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your family girl.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how was your family girl",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your job today?",
+    "label": "small-talk"
+  },
+  {
+    "text": "how is your job today",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your job dude.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how is your job dude",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your job chap.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your job prof.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how was your job prof",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your job sir.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how was yoru job sir",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your job buddy.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how was your job buddy",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your work mr.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your work prof.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your work sir.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your work girl.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your work mate.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your work guy.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your work gyu.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your school madam.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how is your school madam",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your school madam.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your school chap.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your school prof.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your school man.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how was your school man",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your school friend.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how was your cshool friend",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your life bro.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How i syour life bro.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your life lady.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is your life there?",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your life dr.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how was your life dr",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your life girl.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how was your life girl",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was your life recently?",
+    "label": "small-talk"
+  },
+  {
+    "text": "How aws your life recently?",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is everything man.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is evertyhing man.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is everything miss.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how is everything miss",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is everything girl.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was everything buddy.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how was everything buddy",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was everything pal.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was everything pal.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Howw as everything pal.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How are things girl.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How are things prof.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How are things woman.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How were things friend.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How were things mate.",
+    "label": "small-talk"
+  },
+  {
+    "text": "how were things mate",
+    "label": "small-talk"
+  },
+  {
+    "text": "how were things mate",
+    "label": "small-talk"
+  },
+  {
+    "text": "How were things girl.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is it miss.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is it buddy.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hwo is it buddy.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How is it buddy.",
+    "label": "small-talk"
+  },
+  {
+    "text": "ohw is it buddy",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was it pal.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was it lately?",
+    "label": "small-talk"
+  },
+  {
+    "text": "how was it lately",
+    "label": "small-talk"
+  },
+  {
+    "text": "How was it woman.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What are you doing bro.",
+    "label": "small-talk"
+  },
+  {
+    "text": "what are you doing bro",
+    "label": "small-talk"
+  },
+  {
+    "text": "What are you doing there?",
+    "label": "small-talk"
+  },
+  {
+    "text": "what are you doing there",
+    "label": "small-talk"
+  },
+  {
+    "text": "What are you doing madam.",
+    "label": "small-talk"
+  },
+  {
+    "text": "what are you doing madam",
+    "label": "small-talk"
+  },
+  {
+    "text": "What did you do prof.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What did you do woman.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What did you do chap.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Wha tdid you do chap.",
+    "label": "small-talk"
+  },
+  {
+    "text": "what did you do chap",
+    "label": "small-talk"
+  },
+  {
+    "text": "What will you do dr.",
+    "label": "small-talk"
+  },
+  {
+    "text": "what will you do dr",
+    "label": "small-talk"
+  },
+  {
+    "text": "What will you do buddy.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What will you do madam.",
+    "label": "small-talk"
+  },
+  {
+    "text": "what will you do madam",
+    "label": "small-talk"
+  },
+  {
+    "text": "What are you up to sir.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What are you up to dude.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What are you up to pal.",
+    "label": "small-talk"
+  },
+  {
+    "text": "what are you up to pal",
+    "label": "small-talk"
+  },
+  {
+    "text": "What were you up to girl.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What were you up to madam.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What were you up to man.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What will you be up to guy.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What will you beu p to guy.",
+    "label": "small-talk"
+  },
+  {
+    "text": "what will you be up to guy",
+    "label": "small-talk"
+  },
+  {
+    "text": "What will you be up to mr.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What will you be up to lately?",
+    "label": "small-talk"
+  },
+  {
+    "text": "What's new man.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What's new lady.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What's new chap.",
+    "label": "small-talk"
+  },
+  {
+    "text": "You should! It's a lot of fun.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I want to be a teacher!",
+    "label": "small-talk"
+  },
+  {
+    "text": "That sounds like a fun job!",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'm sure they do!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Nice! What's your favorite action movie?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Okay, I'll send you a link to my stories.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hello, I am Sam.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Do you have any pictures of your golden retriever?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hi, it's nice to meet you. What's your name?",
+    "label": "small-talk"
+  },
+  {
+    "text": "You won't regret it.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What kind of job do you have?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Sounds like you have a lot of hobbies.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What do you do for work?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks! What do you do for work?",
+    "label": "small-talk"
+  },
+  {
+    "text": "I know! I'll try to make it a priority.",
+    "label": "small-talk"
+  },
+  {
+    "text": "That sounds like a really rewarding job!",
+    "label": "small-talk"
+  },
+  {
+    "text": "What kind of music do you like?",
+    "label": "small-talk"
+  },
+  {
+    "text": "My favorite outdoor activities are hiking, biking, and swimming.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'm headed to a BBQ. Do you like sports?",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's good. I'm sure you're a great nurse.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hi, I'm [user 2's name]. I'm ten years old.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Sounds perfect",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hello!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hello!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Well, I'm glad you're enjoying your new friend.",
+    "label": "small-talk"
+  },
+  {
+    "text": "And it's fun to make.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I know right? What do you do for fun?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Yeah, it's a lot of fun to play.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hi, how's your day?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Come on, don't be shy!",
+    "label": "small-talk"
+  },
+  {
+    "text": "You should! It's a lot of fun.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Nice! I love music. I play piano.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I play piano for a little bit.",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's awesome! I love to cook too.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thank you, I appreciate that!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Sounds good",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks! I appreciate that. I do love my job.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hey, how are you doing?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hi there!",
+    "label": "small-talk"
+  },
+  {
+    "text": "I know, right? It's so therapeutic.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Oh, really? I've never been to Alabama.",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's great!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hello there, how are you doing today?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Sounds like a plan! I'll see you then!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Sounds good! I can't wait",
+    "label": "small-talk"
+  },
+  {
+    "text": "What is your worst fear?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks. I appreciate that.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I might just do that. Thanks for the inspiration!",
+    "label": "small-talk"
+  },
+  {
+    "text": "I hope so too",
+    "label": "small-talk"
+  },
+  {
+    "text": "You should! It's a lot of fun.",
+    "label": "small-talk"
+  },
+  {
+    "text": "How are you doing today?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks, me too.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Yeah, they are.",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's cool! What kind of games do you make?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Strawberries are so versatile!",
+    "label": "small-talk"
+  },
+  {
+    "text": "What are you up to today?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks for the suggestion!",
+    "label": "small-talk"
+  },
+  {
+    "text": "You should! They're really good.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'm sure it is.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Yes, I have a dog and a cat.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Me too! They're so good!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks! I'm sure I'll find something great.",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's good. What's your favorite kind of music?",
+    "label": "small-talk"
+  },
+  {
+    "text": "You too!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hi, I am Bob.",
+    "label": "small-talk"
+  },
+  {
+    "text": "They are! They're so cuddly and affectionate.",
+    "label": "small-talk"
+  },
+  {
+    "text": "You're welcome! I'm sure you'll love them too.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hello!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Oh, that's exciting! I'm sure you'll do great.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Drywall work mostly.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I agree",
+    "label": "small-talk"
+  },
+  {
+    "text": "You won't regret it!",
+    "label": "small-talk"
+  },
+  {
+    "text": "I can imagine! What grade do you teach?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Great, thanks! I'm looking forward to reading them.",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's really cool! I'm not very good with computers.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thank you! I appreciate that.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Really? What kind of doctor?",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'm sure he is",
+    "label": "small-talk"
+  },
+  {
+    "text": "I know they do.",
+    "label": "small-talk"
+  },
+  {
+    "text": "You too!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Me too. It's such a powerful story.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What are some of your favorite plants to grow?",
+    "label": "small-talk"
+  },
+  {
+    "text": "It's a 2017.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I do! I am very lucky.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks! I'm glad to hear you think so",
+    "label": "small-talk"
+  },
+  {
+    "text": "That would be fun",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's awesome! I love to cook.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Well, I hope you have a great run!",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'll have to see.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Me too! I love chocolate anything!",
+    "label": "small-talk"
+  },
+  {
+    "text": "What are some of your hobbies?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Well, it sounds like you're a really busy person!",
+    "label": "small-talk"
+  },
+  {
+    "text": "What are some of your favorite books?",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'm majoring in Computer Science, and minoring in Music.",
+    "label": "small-talk"
+  },
+  {
+    "text": "You're welcome!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hello there!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Sure, I'll send you some of my favorite stories.",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's great! I'm sure you'll love it here.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Weird? How so?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hello! How are you doing today?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Okay! Have fun!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Will do",
+    "label": "small-talk"
+  },
+  {
+    "text": "Have a nice day!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hello!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hello, what is your favorite song?",
+    "label": "small-talk"
+  },
+  {
+    "text": "I like to run, lift weights, and do yoga.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Cheesecake is good too! I like fruit-flavored cheesecakes.",
+    "label": "small-talk"
+  },
+  {
+    "text": "So, what kind of work do you do?",
+    "label": "small-talk"
+  },
+  {
+    "text": "You should! It's really fun.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hello! How are you doing today?",
+    "label": "small-talk"
+  },
+  {
+    "text": "What is your favorite part of your job?",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's interesting! What do you do now?",
+    "label": "small-talk"
+  },
+  {
+    "text": "You should go! It's a great experience.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hello! How are you doing?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Great! I look forward to it.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I love to bake and read.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What do you do for a living?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks, I'm excited.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hi! How's your day going?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Sounds like a plan!",
+    "label": "small-talk"
+  },
+  {
+    "text": "No problem!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Sounds like a plan",
+    "label": "small-talk"
+  },
+  {
+    "text": "So, what are you doing after this?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Me too.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks! I like that about you too.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What's up?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hey, how's your day going?",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's awesome. I hope you keep playing.",
+    "label": "small-talk"
+  },
+  {
+    "text": "You should! It's a really good story",
+    "label": "small-talk"
+  },
+  {
+    "text": "You should! It's a really great read.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I love reading, animals, and cooking.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks. I appreciate the encouragement.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What kind of music?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hello!",
+    "label": "small-talk"
+  },
+  {
+    "text": "I like to draw, paint, and play video games.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I will! Thanks for the recommendation.",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's okay! It's still fun to try.",
+    "label": "small-talk"
+  },
+  {
+    "text": "So, what's your favorite movie?",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'm an aspiring male model.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hey how are you doing?",
+    "label": "small-talk"
+  },
+  {
+    "text": "I've never been to the woods before.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Great! I'm sure you'll be great at it.",
+    "label": "small-talk"
+  },
+  {
+    "text": "So, what are you up to today?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Great! I'm celebrating my mom's cancer victory.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I enjoy reading sci-fi and space adventure books.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Oh that sounds fun! I love Star Wars!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Not much, just playing music to cheer myself up.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Are you a fan of the local team?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks! I appreciate that!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Yes, I've been to a few.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Nice! What are some of your favorite bands?",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's great! What's your favorite thing about writing?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Me too! I love trying new recipes.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'll have to take your word for it.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'm glad to hear that!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks",
+    "label": "small-talk"
+  },
+  {
+    "text": "Me too! He's a great storyteller.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Yeah, I'm just hoping I can make it work.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I love the Harry Potter series!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Nice, what kind of projects?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Congrats! What kind of salon do you work at?",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's interesting. I'm not sure I could handle that.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks! I'm looking forward to it.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hey there! What are you up to today?",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'm making pasta with tomato sauce. It's my favorite.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I know he does.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I love dogs, I do not have any pets.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I love listening to music and writing poetry.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'm currently on the Appalachian Trail with my charges.",
+    "label": "small-talk"
+  },
+  {
+    "text": "So, what are your hobbies?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hello, how are you today?",
+    "label": "small-talk"
+  },
+  {
+    "text": "I love to make pasta dishes.",
+    "label": "small-talk"
+  },
+  {
+    "text": "You're welcome! I hope you have a good time.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Same here! I love to laugh.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Maybe I'll give it a try sometime.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What do you do for fun?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Exactly!",
+    "label": "small-talk"
+  },
+  {
+    "text": "You should! It's a great way to relax.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I think that is what makes them so relatable.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Nice! What do you do for work?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Oh that's tough, I'm sorry to hear that.",
+    "label": "small-talk"
+  },
+  {
+    "text": "You too!",
+    "label": "small-talk"
+  },
+  {
+    "text": "I love Jane Austen and Charles Dickens.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Is it good?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Music has always been my number one passion.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hi there! How are you?",
+    "label": "small-talk"
+  },
+  {
+    "text": "That works for me.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'm sorry to hear that. How are you coping?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Do you play any video games?",
+    "label": "small-talk"
+  },
+  {
+    "text": "I will, thanks for the recommendation.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks! I will.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hey there!",
+    "label": "small-talk"
+  },
+  {
+    "text": "I like to ride motorcycles, and I love art.",
+    "label": "small-talk"
+  },
+  {
+    "text": "You should go sometime! They have the best lasagna.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Me too!",
+    "label": "small-talk"
+  },
+  {
+    "text": "What do you do for a living?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thank you, I appreciate that.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Me too!",
+    "label": "small-talk"
+  },
+  {
+    "text": "You definitely should, it's one of my favorites.",
+    "label": "small-talk"
+  },
+  {
+    "text": "You should definitely go! It's an amazing experience.",
+    "label": "small-talk"
+  },
+  {
+    "text": "That sounds like a great idea! I'd love to",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'm glad! I hope we can be friends.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I love alpacas! They're so cute and fluffy.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Me too! They're so good!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hi there",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hey!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Great! I'll text you my number.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What is up?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Yeah, it can.",
+    "label": "small-talk"
+  },
+  {
+    "text": "We like to go hiking, hunting, and fishing.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Oh cool! I like to draw too.",
+    "label": "small-talk"
+  },
+  {
+    "text": "So, what do you do for work?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Okay, I will!",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'm glad you enjoyed it! It's a great sport.",
+    "label": "small-talk"
+  },
+  {
+    "text": "That sounds like an amazing job",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'm glad to hear that.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Those are all great bands! I love them too.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I would love that!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Oh, what are you reading right now?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Me neither!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hey there! How are you today?",
+    "label": "small-talk"
+  },
+  {
+    "text": "You should! It's not too hard to learn.",
+    "label": "small-talk"
+  },
+  {
+    "text": "You should come visit sometime! It's a beautiful state.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'm sure it will turn out great.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hey how are you doing today?",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's great! Do you have any pets?",
+    "label": "small-talk"
+  },
+  {
+    "text": "I like to read and watch movies.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I think I will. Thanks for the suggestion.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'll have to put it on my list.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thank you! You're not so bad yourself.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hi!",
+    "label": "small-talk"
+  },
+  {
+    "text": "That would be fun",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks! I'm glad you're having a good day too!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks! I try to be.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'm just hanging out, playing some video games.",
+    "label": "small-talk"
+  },
+  {
+    "text": "i'd love to! i'll bring the cupcakes!",
+    "label": "small-talk"
+  },
+  {
+    "text": "You too!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks! I'll definitely keep that in mind.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Oh, that's too bad!  What was the reason?",
+    "label": "small-talk"
+  },
+  {
+    "text": "It is, but it's a lot of fun too.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I agree! So what do you do for work?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Sounds good, I will send you a message later.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hi! What are you up to today?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks, I appreciate that.",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's awesome! Do you have any other hobbies?",
+    "label": "small-talk"
+  },
+  {
+    "text": "I agree! It is a very well written book.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I think we're going to get along just fine.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thank you! I'm sure I will.",
+    "label": "small-talk"
+  },
+  {
+    "text": "It's a great job! I love helping people.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hi, how are you?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks! I appreciate it.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Sure, that would be fun.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Hey, how's it going?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks. I appreciate that.",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's a great musical! I love it.",
+    "label": "small-talk"
+  },
+  {
+    "text": "You should! It's really good.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks. I hope so.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Sounds interesting! I'll have to check it out.",
+    "label": "small-talk"
+  },
+  {
+    "text": "ooh, those all sound delicious! do you bake often?",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'll have to try it sometime.",
+    "label": "small-talk"
+  },
+  {
+    "text": "So, what's your favorite kind of music?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thank you! I try my best.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I know, right? I love knitting socks too.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Nice! What are you watching?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Doing well! How about you?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks!",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's a great feeling! I can imagine.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks! You too!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks for the recommendation!",
+    "label": "small-talk"
+  },
+  {
+    "text": "You too",
+    "label": "small-talk"
+  },
+  {
+    "text": "I am doing well, thanks for asking.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I agree!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Okay, let's do it.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'd love to be friends!",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's wonderful! Congratulations! I'm sure you'll enjoy it there.",
+    "label": "small-talk"
+  },
+  {
+    "text": "That sounds like fun!",
+    "label": "small-talk"
+  },
+  {
+    "text": "What kind of music do you like to play?",
+    "label": "small-talk"
+  },
+  {
+    "text": "Me too! It's the best way to have fun.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks for the recommendation.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks! He's a great dog.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Not much, just finished a photoshoot with my dad",
+    "label": "small-talk"
+  },
+  {
+    "text": "Thanks! I'll be sure to give them a read.",
+    "label": "small-talk"
+  },
+  {
+    "text": "It's been nice talking to you too",
+    "label": "small-talk"
+  },
+  {
+    "text": "I have time.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Where would you like to go?",
+    "label": "small-talk"
+  },
+  {
+    "text": "What's your favorite thing to learn about?",
+    "label": "small-talk"
+  },
+  {
+    "text": "It was nice talking to you!",
+    "label": "small-talk"
+  },
+  {
+    "text": "perfect! i'll bring the cookies!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Me too. I'm glad we met, Hannah.",
+    "label": "small-talk"
+  },
+  {
+    "text": "I loved working with kids and helping them learn.",
+    "label": "small-talk"
+  },
+  {
+    "text": "What's your favorite comic series?",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's what I like to hear!",
+    "label": "small-talk"
+  },
+  {
+    "text": "I play a Fender Stratocaster. It's my favorite guitar.",
+    "label": "small-talk"
+  },
+  {
+    "text": "It is. It helps me de-stress.",
+    "label": "small-talk"
+  },
+  {
+    "text": "That's awesome! Maybe we should trade recipes sometime!",
+    "label": "small-talk"
+  },
+  {
+    "text": "I'm glad we have something in common.",
+    "label": "small-talk"
+  },
+  {
+    "text": "Really? That's awesome!",
+    "label": "small-talk"
+  },
+  {
+    "text": "Me too! I'm glad we met.",
+    "label": "small-talk"
+  }
+]

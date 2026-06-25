@@ -1,0 +1,162 @@
+{
+  "data_caveat": "CRITICAL: The underlying data is PersonaChat. Each day/conversation_id pairs completely different people. User 1 is NOT a continuous person across days. This timeline is analyzing an artifact, not real longitudinal drift.",
+  "demo_arc_segments": [
+    {
+      "day_range": "1-5",
+      "dominant_tone": "formal",
+      "dominant_mood": "curiosity-positive",
+      "mean_affect": {
+        "valence": 0.281,
+        "curiosity": 0.475,
+        "frustration": 0.0,
+        "playfulness": 0.02,
+        "formality": 0.63,
+        "intensity": 0.155,
+        "avg_length": 8.3,
+        "excl_rate": 0.1,
+        "quest_rate": 0.6
+      }
+    },
+    {
+      "day_range": "6-10",
+      "dominant_tone": "formal",
+      "dominant_mood": "frustration-negative",
+      "mean_affect": {
+        "valence": -0.641,
+        "curiosity": 0.075,
+        "frustration": 0.627,
+        "playfulness": 0.0,
+        "formality": 0.51,
+        "intensity": 0.321,
+        "avg_length": 7.1,
+        "excl_rate": 0.0,
+        "quest_rate": 0.1
+      },
+      "detected_trigger": {
+        "new_topic": "shift toward: frustrating, sister",
+        "new_entity": "sister",
+        "keyword_spike": "frustrating"
+      }
+    },
+    {
+      "day_range": "11-15",
+      "dominant_tone": "casual",
+      "dominant_mood": "playfulness-positive",
+      "mean_affect": {
+        "valence": 0.441,
+        "curiosity": 0.025,
+        "frustration": 0.029,
+        "playfulness": 0.64,
+        "formality": 0.28,
+        "intensity": 0.353,
+        "avg_length": 6.2,
+        "excl_rate": 0.3,
+        "quest_rate": 0.0
+      },
+      "detected_trigger": {
+        "new_topic": "shift toward: haha, talked",
+        "keyword_spike": "haha"
+      }
+    }
+  ],
+  "real_data_segments": [
+    {
+      "day_range": "1-13",
+      "dominant_tone": "formal",
+      "dominant_mood": "curiosity-positive",
+      "mean_affect": {
+        "valence": 0.567,
+        "curiosity": 0.2,
+        "frustration": 0.0,
+        "playfulness": 0.093,
+        "formality": 0.547,
+        "intensity": 0.367,
+        "avg_length": 11.095,
+        "excl_rate": 0.537,
+        "quest_rate": 0.268
+      }
+    },
+    {
+      "day_range": "14-25",
+      "dominant_tone": "formal",
+      "dominant_mood": "curiosity-positive",
+      "mean_affect": {
+        "valence": 0.546,
+        "curiosity": 0.161,
+        "frustration": 0.006,
+        "playfulness": 0.113,
+        "formality": 0.557,
+        "intensity": 0.357,
+        "avg_length": 12.453,
+        "excl_rate": 0.511,
+        "quest_rate": 0.211
+      },
+      "detected_trigger": {
+        "new_topic": "I used to sing in choir, but I haven't in a long time . I'm trying to build a stronger relationship with my friends, but it's hard . Kids are a lot of work, but they're also the best thing that's ever happened to me .",
+        "keyword_spike": "know"
+      }
+    },
+    {
+      "day_range": "26-34",
+      "dominant_tone": "formal",
+      "dominant_mood": "curiosity-positive",
+      "mean_affect": {
+        "valence": 0.446,
+        "curiosity": 0.286,
+        "frustration": 0.005,
+        "playfulness": 0.079,
+        "formality": 0.569,
+        "intensity": 0.296,
+        "avg_length": 11.003,
+        "excl_rate": 0.367,
+        "quest_rate": 0.373
+      },
+      "detected_trigger": {
+        "new_topic": "I love to bake, but I'm not very creative, I usually just make chocolate chip cookies or brownies . I also love to spend time with my family and friends . I've never read any of Stephen King's books but I've heard good things about them . I love historical fiction too .",
+        "new_entity": "Ken",
+        "keyword_spike": "books"
+      }
+    },
+    {
+      "day_range": "35-52",
+      "dominant_tone": "formal",
+      "dominant_mood": "curiosity-positive",
+      "mean_affect": {
+        "valence": 0.496,
+        "curiosity": 0.244,
+        "frustration": 0.004,
+        "playfulness": 0.072,
+        "formality": 0.574,
+        "intensity": 0.332,
+        "avg_length": 12.549,
+        "excl_rate": 0.477,
+        "quest_rate": 0.311
+      },
+      "detected_trigger": {
+        "new_topic": "I love When Harry Met Sally, Sleepless in Seattle, and The Princess Bride . I'm also a big fan of the romcoms that come out of Bollywood . I've never seen any Bollywood movies .",
+        "new_entity": "Bollywood",
+        "keyword_spike": "romantic"
+      }
+    },
+    {
+      "day_range": "53-60",
+      "dominant_tone": "formal",
+      "dominant_mood": "curiosity-positive",
+      "mean_affect": {
+        "valence": 0.529,
+        "curiosity": 0.153,
+        "frustration": 0.0,
+        "playfulness": 0.057,
+        "formality": 0.575,
+        "intensity": 0.333,
+        "avg_length": 10.484,
+        "excl_rate": 0.431,
+        "quest_rate": 0.211
+      },
+      "detected_trigger": {
+        "new_topic": "Hey! I like to go for walks, explore the area, and meet new people . I love exploring new places and meeting new people. My parents are very supportive and understanding, even though I'm not the best at managing my finances . I'm often disappointed in myself, but I try to stay positive and do my best .",
+        "keyword_spike": "new"
+      }
+    }
+  ]
+}

@@ -15,7 +15,7 @@ import type {
   HealthApiResponse,
 } from "./api";
 
-// ── Core UI types ────────────────────────────────────────────────
+// Core UI types
 
 export type UserKey = "user1" | "user2";
 
@@ -72,7 +72,7 @@ export interface Persona {
   topEmojis: { emoji: string; count: number }[];
 }
 
-// ── Helper ───────────────────────────────────────────────────────
+// Helper
 
 export function nowTime(): string {
   const d = new Date();
@@ -81,7 +81,7 @@ export function nowTime(): string {
 
 const ALL_TRAITS = ["Funny", "Expressive", "Curious", "Enthusiastic", "Intense", "Formal", "Casual"];
 
-// ── Adapter: persona API → Persona ──────────────────────────────
+// Adapter: persona API → Persona
 
 function toMentionList(
   raw: Record<string, number> | string[] | undefined
@@ -194,7 +194,7 @@ export function adaptPersonaResponse(raw: PersonaApiResponse): AdaptedPersonaDat
   };
 }
 
-// ── Adapter: topics API → Topic[] ───────────────────────────────
+// Adapter: topics API → Topic[]
 
 export function adaptTopicsResponse(raw: TopicsApiResponse): Topic[] {
   return raw.topics.slice(0, 20).map((t: TopicApiItem) => ({
@@ -209,7 +209,7 @@ export function adaptTopicsResponse(raw: TopicsApiResponse): Topic[] {
   }));
 }
 
-// ── Adapter: chat API → ChatMessage ─────────────────────────────
+// Adapter: chat API → ChatMessage
 
 export function adaptChatResponse(raw: ChatApiResponse): ChatMessage {
   const sources: SourceMessage[] = (raw.sources?.messages_used ?? []).map((m, i) => ({
@@ -251,7 +251,7 @@ export function adaptChatResponse(raw: ChatApiResponse): ChatMessage {
   };
 }
 
-// ── Adapter: health API → display stats ─────────────────────────
+// Adapter: health API → display stats
 
 export function adaptHealthResponse(raw: HealthApiResponse) {
   return {
@@ -262,7 +262,7 @@ export function adaptHealthResponse(raw: HealthApiResponse) {
   };
 }
 
-// ── Fallback data (shown while loading) ─────────────────────────
+// Fallback data (shown while loading)
 
 export const FALLBACK_PERSONA: Persona = {
   label: "Loading…",

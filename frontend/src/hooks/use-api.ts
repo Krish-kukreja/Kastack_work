@@ -1,12 +1,12 @@
 /**
- * use-api.ts — React Query hooks for the Kastack backend.
+ * use-api.ts - React Query hooks for the Kastack backend.
  *
  * Each hook fetches from the FastAPI backend and transforms the
  * response into the shapes the UI components expect.
  */
 
 import { useQuery, useMutation } from "@tanstack/react-query";
-import { fetchHealth, fetchPersona, fetchTopics, fetchChat } from "@/lib/api";
+import { fetchHealth, fetchPersona, fetchTopics, fetchChat, fetchIntent, fetchAffect, fetchDrift, fetchConflict } from "@/lib/api";
 import {
   adaptPersonaResponse,
   adaptTopicsResponse,
@@ -18,7 +18,7 @@ import {
   type ChatMessage,
 } from "@/lib/mock-data";
 
-// ── Health ──────────────────────────────────────────────────────
+// Health
 
 export function useHealth() {
   return useQuery({
@@ -32,7 +32,7 @@ export function useHealth() {
   });
 }
 
-// ── Persona ─────────────────────────────────────────────────────
+// Persona
 
 export function usePersona() {
   return useQuery({
@@ -58,7 +58,7 @@ export function usePersonas() {
   };
 }
 
-// ── Topics ──────────────────────────────────────────────────────
+// Topics
 
 export function useTopics() {
   return useQuery({
@@ -72,7 +72,7 @@ export function useTopics() {
   });
 }
 
-// ── Chat mutation ───────────────────────────────────────────────
+// Chat mutation
 
 export function useChatMutation() {
   return useMutation({
@@ -80,5 +80,32 @@ export function useChatMutation() {
       const raw = await fetchChat(message, targetUser, targetTopic);
       return adaptChatResponse(raw);
     },
+  });
+}
+
+// Round 2 Hooks
+
+export function useIntentMutation() {
+  return useMutation({
+    mutationFn: async ({ text }: { text: string }) => fetchIntent(text),
+  });
+}
+
+export function useAffectMutation() {
+  return useMutation({
+    mutationFn: async ({ text }: { text: string }) => fetchAffect(text),
+  });
+}
+
+export function useDrift(view: "real" | "demo") {
+  return useQuery({
+    queryKey: ["drift", view],
+    queryFn: () => fetchDrift(view),
+  });
+}
+
+export function useConflictMutation() {
+  return useMutation({
+    mutationFn: async ({ query, subject }: { query: string; subject?: string }) => fetchConflict(query, subject),
   });
 }

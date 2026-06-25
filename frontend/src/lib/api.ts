@@ -1,5 +1,5 @@
 /**
- * api.ts — Centralized API client for the Kastack FastAPI backend.
+ * api.ts - Centralized API client for the Kastack FastAPI backend.
  *
  * All fetch calls to the backend go through here so the base URL
  * and error handling are in one place.
@@ -9,7 +9,7 @@ export const API_BASE_URL =
   (typeof window !== "undefined" && (window as Record<string, unknown>).__KASTACK_API_URL__) as string
   || (import.meta.env?.PROD ? "" : "http://localhost:8000");
 
-// ── Backend response shapes ────────────────────────────────────────
+// Backend response shapes
 
 /** POST /chat response */
 export interface ChatApiResponse {
@@ -48,7 +48,7 @@ export interface ChatApiResponse {
   no_results?: boolean;
 }
 
-/** GET /persona response — entire persona.json */
+/** GET /persona response - entire persona.json */
 export interface PersonaApiResponse {
   meta: {
     total_messages: number;
@@ -112,7 +112,7 @@ export interface HealthApiResponse {
   checkpoints_loaded: number;
 }
 
-// ── Fetch helpers ──────────────────────────────────────────────────
+// Fetch helpers
 
 async function apiFetch<T>(path: string, init?: RequestInit): Promise<T> {
   const url = `${API_BASE_URL}${path}`;
@@ -141,5 +141,68 @@ export function fetchChat(message: string, target_user?: string, target_topic?: 
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ message, target_user, target_topic }),
+  });
+}
+
+// Round 2 Endpoints
+
+export interface IntentApiResponse {
+  label: string;
+  confidence: number;
+}
+export function fetchIntent(text: string): Promise<IntentApiResponse> {
+  return apiFetch<IntentApiResponse>("/intent", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ text }),
+  });
+}
+
+export interface AffectApiResponse {
+  valence: number;
+  curiosity: number;
+  frustration: number;
+  playfulness: number;
+  formality: number;
+  intensity: number;
+}
+export function fetchAffect(text: string): Promise<AffectApiResponse> {
+  return apiFetch<AffectApiResponse>("/affect", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ text }),
+  });
+}
+
+export interface DriftApiResponse {
+  segments: {
+    day_range: string;
+    dominant_tone: string;
+    dominant_mood: string;
+    trigger?: string;
+  }[];
+}
+export function fetchDrift(view: "real" | "demo"): Promise<DriftApiResponse> {
+  return apiFetch<DriftApiResponse>(`/drift?view=${view}`);
+}
+export function driftChartUrl(view: "real" | "demo"): string {
+  return `${API_BASE_URL}/drift/chart?view=${view}`;
+}
+
+export interface ConflictApiResponse {
+  subject: string;
+  before: { day: number; text: string }[];
+  after: { day: number; text: string }[];
+  resolution: {
+    emotional_contradiction: boolean;
+    factual_contradictions: any[];
+    merged_answer: string;
+  };
+}
+export function fetchConflict(query: string, subject?: string): Promise<ConflictApiResponse> {
+  return apiFetch<ConflictApiResponse>("/conflict", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ query, subject }),
   });
 }

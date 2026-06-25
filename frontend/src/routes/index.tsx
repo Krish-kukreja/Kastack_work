@@ -4,6 +4,7 @@ import { NavBar, type NavKey } from "@/components/dashboard/NavBar";
 import { MeshBackground } from "@/components/ui/mesh-orb";
 import { ChatArea } from "@/components/dashboard/ChatArea";
 import { ContextPanel } from "@/components/dashboard/ContextPanel";
+import { InsightsPanel } from "@/components/dashboard/InsightsPanel";
 import { PersonaDrawer } from "@/components/dashboard/PersonaDrawer";
 import { SearchOverlay } from "@/components/dashboard/SearchOverlay";
 import { ShortcutsOverlay } from "@/components/dashboard/ShortcutsOverlay";
@@ -20,7 +21,7 @@ export const Route = createFileRoute("/")(
   {
   head: () => ({
     meta: [
-      { title: "KaStack RAG — Conversation Intelligence" },
+      { title: "KaStack RAG - Conversation Intelligence" },
       {
         name: "description",
         content: "Analyze 11,000 conversations: topics, personas, and retrieved sources.",
@@ -44,7 +45,7 @@ function Dashboard() {
   const [shortcutsOpen, setShortcutsOpen] = useState(false);
   const toast = useToast();
 
-  // ── Live data from backend ──────────────────────────────────
+  // Live data from backend
   const { personas, totalConversations, totalMessages, isLoading: personaLoading } = usePersonas();
   const { data: topics = [], isLoading: topicsLoading } = useTopics();
   const { data: health } = useHealth();
@@ -155,42 +156,48 @@ function Dashboard() {
         expanded={navExpanded}
         onToggle={() => setNavExpanded((v) => !v)}
       />
-      <ChatArea
-        activeUser={activeUser}
-        onUserChange={handleUserChange}
-        messages={
-          activeTopic
-            ? messages.filter((m) => m.role === "user" || (m.sources?.length ?? 0) > 0)
-            : messages
-        }
-        onSend={sendMessage}
-        activeTopic={activeTopic}
-        onSelectTopic={(t) => {
-          setActiveTopic(t);
-          if (t) {
-            setTab("topics");
-            toast.show(`Filtering by "${t.title}" · ${t.messageCount.toLocaleString()} messages`);
-          }
-        }}
-        topics={topics}
-        totalMessages={totalMessages}
-        isLoading={chatMutation.isPending}
-        backendReady={health?.ready ?? false}
-      />
-      <ContextPanel
-        activeUser={activeUser}
-        activeTopic={activeTopic}
-        onSelectTopic={(t) => setActiveTopic(t)}
-        lastAssistant={lastAssistant}
-        onOpenPersona={() => setDrawerOpen(true)}
-        tab={tab}
-        onTabChange={setTab}
-        personas={personas}
-        topics={topics}
-        totalConversations={totalConversations}
-        totalMessages={totalMessages}
-        isLoading={isDataLoading}
-      />
+      {nav === "insights" ? (
+        <InsightsPanel />
+      ) : (
+        <>
+          <ChatArea
+            activeUser={activeUser}
+            onUserChange={handleUserChange}
+            messages={
+              activeTopic
+                ? messages.filter((m) => m.role === "user" || (m.sources?.length ?? 0) > 0)
+                : messages
+            }
+            onSend={sendMessage}
+            activeTopic={activeTopic}
+            onSelectTopic={(t) => {
+              setActiveTopic(t);
+              if (t) {
+                setTab("topics");
+                toast.show(`Filtering by "${t.title}" · ${t.messageCount.toLocaleString()} messages`);
+              }
+            }}
+            topics={topics}
+            totalMessages={totalMessages}
+            isLoading={chatMutation.isPending}
+            backendReady={health?.ready ?? false}
+          />
+          <ContextPanel
+            activeUser={activeUser}
+            activeTopic={activeTopic}
+            onSelectTopic={(t) => setActiveTopic(t)}
+            lastAssistant={lastAssistant}
+            onOpenPersona={() => setDrawerOpen(true)}
+            tab={tab}
+            onTabChange={setTab}
+            personas={personas}
+            topics={topics}
+            totalConversations={totalConversations}
+            totalMessages={totalMessages}
+            isLoading={isDataLoading}
+          />
+        </>
+      )}
 
       <PersonaDrawer
         open={drawerOpen}

@@ -49,7 +49,7 @@ export function MeshBackground({ opacity = 1 }: { opacity?: number }) {
         zIndex: 0,
         pointerEvents: "none",
         opacity,
-        // Instant CSS gradient fallback — visible immediately while the WebGL
+        // Instant CSS gradient fallback - visible immediately while the WebGL
         // shader compiles/initializes, so the page never flashes black on refresh.
         background:
           "radial-gradient(circle at 20% 20%, #FFB3D9 0%, transparent 45%)," +
@@ -64,7 +64,7 @@ export function MeshBackground({ opacity = 1 }: { opacity?: number }) {
         speed={0.18}
         style={{ width: "100%", height: "100%" }}
       />
-      {/* light dark wash for legibility — gradient stays clearly visible */}
+      {/* light dark wash for legibility - gradient stays clearly visible */}
       <div
         style={{
           position: "absolute",

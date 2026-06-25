@@ -1,5 +1,5 @@
 """
-persona_extractor.py — Extract user personas from conversation data.
+persona_extractor.py - Extract user personas from conversation data.
 
 Data reality:
   - "User 1" and "User 2" are anonymized labels across 11K independent conversations
